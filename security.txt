@@ -4,16 +4,15 @@ Hash: SHA512
 Contact: mailto:code@poshsecurity.com
 Contact: https://twitter.com/kjacobsen
 Encryption: https://keybase.io/kjacobsen
-Hiring: https://join.readify.net/?source=StaffReferral&campaign=kieran.jacobsen
 -----BEGIN PGP SIGNATURE-----
-Version: Keybase OpenPGP v2.1.3
+Version: Keybase OpenPGP v2.1.13
 Comment: https://keybase.io/crypto
 
-wsBcBAABCgAGBQJdV2DiAAoJEMpHmhahzXkl0REIAKRebRXBJShR/bxLQD3yRKsj
-qB55SDDuI/plE6+okLefk8+WxqJUcmkFZMHpqeO+EMzSJuy4dEaaU5G7kW35FMuf
-L7Ei9fYEoePkQI7lW1VALp9Btrj83XrfkiepEJHU916SU+4dAC/hp98HefE19oOo
-jAeD2yH5mTo1sMVnEQkXYgTXGJhrfNyKuFV7HDufE9UYvSMUMmoRSrPyzqCIZPLA
-46FNmuiDW2xIX0NwxGgT+PpB11kfB6qtE/qbdzoUl+4TNY6KFuT1CLO5E9kHENiw
-SNBBVlNJL4n8omiBo1+iSofjYo276y7GJwc5epXjsaKJCyJjTJshnbKJ9sIMx60=
-=/6e0
+wsBcBAABCgAGBQJg1cHYAAoJEMpHmhahzXklp5AH+wTh4CqdAUWvgdxug+XXEeBB
+82gIAMDkVRGFmXkDAX642LGAJud4GTwMoR723U95WrSaeZ+ZnZGo6I7GL5+RO9H4
+2tAhMt5BwcXu9EDwEjwbH9jM/c2BBmjT5qDUAjXiXlSNtdXGO30o63//Py3k34ep
+ixvyOQbvtIbNb/XaNQDsAqvRn6K2T+p0FBiu5jBDLgE6nB683xNW6hzBMwCNcUpc
++Ertl90A2JJl5Lhho9Eon49dO41/TLTG/B0HsxT3lM13WPGBbgquIBCjKzRylx1r
+ve1B+xiJdrMZV/GeD+hqNFTzBZie4wTCMR73Ptx9XCJVF9slPKs128XOL96LJI0=
+=dqKY
 -----END PGP SIGNATURE-----
